@@ -13,8 +13,8 @@ $(function() {
 // make all images responsive
 /* 
  * Unuse by Hux
- * actually only Portfolio-Pages can't use it and only post-img need it.
- * so I modify the _layout/post and CSS to make post-img responsive!
+ * actually only Portfolio-Pages can't use it and only posts-img need it.
+ * so I modify the _layout/posts and CSS to make posts-img responsive!
  */
 // $(function() {
 // 	$("img").addClass("img-responsive");
